@@ -1,4 +1,4 @@
-**Image Classification for X-ray Diagnosis**
+**Covid Detection for X-ray Diagnosis**
 
 **Overview:**
 This project focuses on developing a machine learning model for COVID-19 detection using X-ray images. Leveraging a dataset containing X-ray images of COVID-positive and COVID-negative cases, we aim to build an image classification system to aid in the diagnosis of COVID-19.
