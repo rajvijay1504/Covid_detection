@@ -1,4 +1,3 @@
-**Image Classification**
 **Image Classification for X-ray Diagnosis**
 
 **Overview:**
